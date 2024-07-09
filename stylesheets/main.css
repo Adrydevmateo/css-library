@@ -1,0 +1,10 @@
+@import './variables.css';
+@import './font.css';
+@import './text.css';
+@import './cta.css';
+
+div {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 1em;
+}
