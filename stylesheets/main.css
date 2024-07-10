@@ -6,5 +6,5 @@
 div {
 	display: flex;
 	flex-wrap: wrap;
-	gap: 1em;
+	gap: 16px;
 }

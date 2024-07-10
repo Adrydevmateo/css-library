@@ -5,6 +5,7 @@ button {
 	text-wrap: pretty;
 	font-weight: bold;
 	font-size: small;
+	color: var(--color-primary);
 }
 
 h1,

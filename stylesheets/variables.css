@@ -1,10 +1,16 @@
 :root {
 	/* Colors - Brand */
+	--color-primary: #102C57;
+	--color-primary-lighter: #1679AB;
+	--white: #fafafa;
 
 	/* Colors - Supporting */
 
 	/* Colors - Neutral */
 
 	/* Transition */
-	--primary-transition-speed: .3s;
+	--transition-speed-primary: .3s;
+
+	/* Borders */
+	--border-radius-primary: .2rem;
 }
